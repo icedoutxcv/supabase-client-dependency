@@ -37,7 +37,7 @@ let package = Package(
     ),
     .package(
       url: "https://github.com/supabase/supabase-swift.git",
-      from: "2.0.0"
+      from: "2.8.1"
     ),
     .package(
       url: "https://github.com/apple/swift-docc-plugin.git",
