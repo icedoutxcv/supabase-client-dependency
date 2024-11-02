@@ -237,7 +237,7 @@ extension Session {
     accessToken: "",
     tokenType: "",
     expiresIn: 1,
-    expiresAt: nil,
+    expiresAt: 2,
     refreshToken: "",
     user: .mock
   )
@@ -247,7 +247,7 @@ extension Session {
       accessToken: "",
       tokenType: "",
       expiresIn: 1,
-      expiresAt: nil,
+      expiresAt: 2,
       refreshToken: "",
       user: user
     )
